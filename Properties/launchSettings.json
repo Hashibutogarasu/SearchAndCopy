@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchAndCopy": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\crow\\Downloads\\assets C:\\Users\\crow\\Downloads\\tests 29d4dccf3353334c7aa2a49cb6fed3780a51a1ba 79a5b53bf22cca182ddff2a670942c49867663ec -n /test1/test1.ogg test2.ogg"
+    }
+  }
+}
